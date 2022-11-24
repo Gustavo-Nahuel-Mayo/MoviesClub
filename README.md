@@ -1,13 +1,13 @@
+LINK:
 https://comfy-douhua-a76596.netlify.app/
 
 --Spanish--
-MoviesClub es una grilla de exposición de estrenos (Cartelera de cine digital), donde se ha utilizado HTML para darle la estructura a la pagina, CSS para su diseño y decoración, REACT para su función en todo tipo de tamaño de pantallas, uno podría maximizar la ventana o reducirla y siempre se encontrará en un formato adecuado para visualizar el contenido.
-Cada card tiene un efecto hover de traslación en el eje Y de un 5% además de un efecto Box-shadow, brindando una sensación de vida a una pagina estatica. 
+MoviesClub es una grilla de exposición de estrenos (Cartelera de cine digital), donde se ha utilizado HTML, CSS JS y REACT.
+En este proyecto busqué desarrollar mis conocimientos en llamados de API REST y en el enfoque de desarrollo Mobile First.
 
 --English--
-MoviesClub is an exhibition grid of premieres (Digital Cinema Billboard), where HTML has been used to give the structure to the page, CSS for its design and decoration, REACT for its function in all types of screen sizes, you could maximize the window or reduce it and it will always be in a suitable format to display the content.
-Each card has a 5% Y-axis translation hover effect as well as a Box-shadow effect, bringing a sense of life to a static page.
-
+MoviesClub is a premiere exhibition grid (Digital Cinema Billboard), where HTML, CSS JS and REACT have been used.
+In this project I sought to develop my knowledge in REST API calls and the Mobile First development approach.
 
 
 # Getting Started with Create React App
